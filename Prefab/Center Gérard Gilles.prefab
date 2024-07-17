@@ -161,10 +161,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3630060742361291903, guid: 5b574b9933f03ac44a83f963dd67d106,
+        type: 3}
+      propertyPath: m_Name
+      value: Spores
+      objectReference: {fileID: 0}
     - target: {fileID: 4471108694611624683, guid: 5b574b9933f03ac44a83f963dd67d106,
         type: 3}
       propertyPath: m_Name
       value: Mrs White Bunny with a bow
+      objectReference: {fileID: 0}
+    - target: {fileID: 6442115587389876297, guid: 5b574b9933f03ac44a83f963dd67d106,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6442115587389876297, guid: 5b574b9933f03ac44a83f963dd67d106,
+        type: 3}
+      propertyPath: InitialModule.startSpeed.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6442115587389876297, guid: 5b574b9933f03ac44a83f963dd67d106,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.13861692
+      objectReference: {fileID: 0}
+    - target: {fileID: 6442115587389876297, guid: 5b574b9933f03ac44a83f963dd67d106,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.8396226
+      objectReference: {fileID: 0}
+    - target: {fileID: 6442115587389876297, guid: 5b574b9933f03ac44a83f963dd67d106,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.31007108
+      objectReference: {fileID: 0}
+    - target: {fileID: 6442115587389876297, guid: 5b574b9933f03ac44a83f963dd67d106,
+        type: 3}
+      propertyPath: InitialModule.gravityModifier.scalar
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 8630987735977984387, guid: 5b574b9933f03ac44a83f963dd67d106,
         type: 3}
